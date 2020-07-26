@@ -30,6 +30,7 @@
     background-color: #7159c1;
     width: 40%;
     height: 100%;
+    border-radius: 15px 0px 0px 15px;
 }
 
 .first-content {
@@ -46,6 +47,7 @@
     font-size: 28px;
     font-weight: 700;
     text-transform: capitalize;
+    color: white;
 }
 
 .tittle-second {
@@ -67,6 +69,15 @@
     list-style-type: none;
 }
 
+.item-sm {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+
 .item-sm a {
     color: #7159c1;
 }
@@ -76,16 +87,29 @@
     flex-direction: column;
 }
 
+.form input {
+    height: 45px;
+    border: none;
+    background-color: #f6f6f6;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+
 .btn {
-    border-radius: 8px;
+    border-radius: 5px;
     text-transform: capitalize;
     background-color: #7159c1;
     color: white;
     font-size: 16px;
     font-weight: 500;
     margin: 15px 0px 0px;
-    padding: 14px 50px;
+    padding: 14px 60px;
     border: none;
+    align-self: center;
+}
+
+.btn:hover {
+    background-color: #282828;
 }
 
 .btn-primary {
