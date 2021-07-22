@@ -20,4 +20,4 @@
 
 ---
 
-Feito com ♥ by [aalvs](https://app.rocketseat.com.br/me/aalvs) durante a [Maratona Discover](https://rocketseat.com.br/).
+Feito com ♥ by [aalvs](https://app.rocketseat.com.br/me/aalvs).
