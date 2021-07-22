@@ -20,4 +20,4 @@
 
 ---
 
-Feito com ♥ by [aalvs](https://app.rocketseat.com.br/me/aalvs).
+O aprendizado é contínuo e o próximo nível nunca será o último 🚀 by [aalvs](https://app.rocketseat.com.br/me/aalvs).
